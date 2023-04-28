@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.btn1{
+    font-size: 100px;
+    padding: 30px 60px;
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-bottom: 300px;
+    background: rgb(2, 195, 130);
+    border-color: cadetblue;
+    border-width: 20px;
+}
+.btn2{
+    font-size: 100px;
+    padding: 30px 60px;
+    background: rgb(2, 195, 130);
+    border-color: cadetblue;
+    border-width: 20px;
+}
+.btn3{
+    font-size: 90px;
+    padding: 30px 60px;
+    margin-right: 200px;
+    background: rgb(2, 195, 130);
+    border-color: cadetblue;
+    border-width: 20px;
+}
+.btn4{
+    font-size: 90px;
+    padding: 30px 60px;
+    background: rgb(2, 195, 130);
+    border-color: cadetblue;
+    border-width: 20px;
+}
+
+a{
+    text-decoration: none;
+}
